@@ -1,0 +1,23 @@
+
+---
+
+### **2. 26_APIPingDeck**  
+**Description:**  
+Scans API endpoints and provides live latency, status codes, and reliability scoring.
+
+#### **README.md**
+```markdown
+# APIPingDeck - Multi-Endpoint Monitor
+
+APIPingDeck is a CLI-based API monitor designed for quickly evaluating the responsiveness of service clusters.
+
+## Features
+- Status + latency tracking  
+- Retry and timeout support  
+- CSV/JSON output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_APIPingDeck.git
+cd 26_APIPingDeck
+python monitor.py
