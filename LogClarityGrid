@@ -1,0 +1,23 @@
+
+---
+
+### **3. 26_LogClarityGrid**  
+**Description:**  
+Analyzes logs and highlights repeating messages, bursts, and clustered anomalies.
+
+#### **README.md**
+```markdown
+# LogClarityGrid - Log Pattern Visualizer
+
+LogClarityGrid extracts the top patterns and burst zones from system or application logs using frequency mapping.
+
+## Features
+- Pattern summary  
+- Burst detection  
+- CLI output with filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LogClarityGrid.git
+cd 26_LogClarityGrid
+python analyze.py logs/app.log
