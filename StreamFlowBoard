@@ -1,0 +1,23 @@
+
+---
+
+### **4. 26_StreamFlowBoard**  
+**Description:**  
+Visualizes streaming numerical input as a live-updating chart with customizable refresh rate.
+
+#### **README.md**
+```markdown
+# StreamFlowBoard - Real-Time Data Plotting Tool
+
+StreamFlowBoard is built for visualizing dynamic metrics in dashboards, experiments, or test rigs.
+
+## Features
+- Live scrollable chart  
+- Refresh rate control  
+- Built on Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_StreamFlowBoard.git
+cd 26_StreamFlowBoard
+python visualize.py
